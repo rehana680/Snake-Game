@@ -39,4 +39,4 @@ Controls:
  Contact info:
 
 [Hafiza Rehana Yasin]
-[hafizarehana159@gmail.com]
+[hafizarehanayasin@gmail.com]
